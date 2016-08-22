@@ -1,0 +1,1 @@
+1. array values can be accessed only by using integers. so we must use something like names[3]
