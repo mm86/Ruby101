@@ -1,0 +1,11 @@
+1.Nothing. Will not print anything as method is returned before the line puts words.
+
+after edit
+
+def scream(words)
+    words = words + "!!!!"
+    puts words
+end
+scream("Yippeee")
+
+returns nil
