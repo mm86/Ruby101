@@ -1,0 +1,1 @@
+1. x is 3 in the first program. The second program throws an error undefined as x is not created in the outer scope and only within the inner stop and therefore cannot be accessed from outside.
