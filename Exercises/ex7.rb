@@ -1,0 +1,1 @@
+# hashes allow us to store key value pairs whereas arrays can only store values.
